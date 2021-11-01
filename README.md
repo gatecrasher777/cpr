@@ -1,4 +1,4 @@
-# CPR
+# CPR (Work in Progress)
 
 ## Introduction
 
@@ -138,7 +138,7 @@ When the last seat is declared, the initial vote leader's tally is entirely depl
     
 Note that cast = evaluated = final. A perfect transferance and rebalance of votes over 650 contests.
 
-The Final Seats allocation in 2015 (The last numbers and % in each row is the actual FPTP allocation): 
+The Final Seats allocation in 2015. Compare the CPR allocation vs the FPTP imbalance: 
 
     Party                                       Votes    %Share           CPR Seats          FPTP Seats
     Conservative                             11299609 ( 36.81%)        221 ( 34.00%)      330 ( 50.77%)
