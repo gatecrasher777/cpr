@@ -61,7 +61,7 @@ Repeat from Step 4 until all continuencies are declared.
 
 ## Notes
 
-From the perspective of a remaining candidate - as another member of your party is elected, you have to contribute some of your votes to make up their shortfall (since an elected candidate needs 100% of the votes cast in their constituency). The more successful other members of your party are the greater the penalty becomes. On the other hand, when a member of your party is eliminated, you receive a share of their losing votes. The less successful other members of your party are, the greater this bonus becomes for you. If at some point, you become the candidate with the greatest proportion of adjusted votes in your constituency compared to all undeclared constituencies, you are elected.  If at some point, one of your rivals in your constituency becomes that person, you are eliminated.
+From the perspective of a remaining candidate - as another member of your party is elected, you have to contribute some of your votes to make up their shortfall (since an elected candidate needs 100% of the votes cast in their constituency). The more successful other members of your party are the greater the penalty becomes. On the other hand, when a member of your party is eliminated, you receive a share of their losing votes. The less successful other members of your party are, the greater this bonus becomes for you. If at some point, you become the candidate with the greatest proportion of adjusted votes in your constituency compared to all other undeclared constituencies, you are elected.  If at some point, one of your rivals in your constituency becomes that person, you are eliminated.
 
 The proportionality of the party seat allocation vs party votes cast is close but not perfect. It would be perfect if all constituencies returned the same number of valid votes. Typically, sizes of constituencies totals can vary widely. For example, those parties (SNP and LAB) who do well in smaller constituencies will get a greater allocation of seats than those parties (CON and LD) whose supporters are concentrated in larger constituencies. By having constituencies of similar size, proportionality in the outcome is improved. 
 
@@ -138,7 +138,9 @@ When the last seat is declared, the initial vote leader's tally is entirely depl
     
 Note that cast = evaluated = final. A perfect transferance and rebalance of votes over 650 contests.
 
-The Final Seats allocation in 2015. Compare the CPR allocation vs the FPTP imbalance: 
+Big party candidates with large majorities and share of the vote north of 50% are a generally a shoe-in. Big party candidates in marginals, with small majorities and low percentage shares are likely to fail. If a constituency is emphatically behind a candidate (like the Speaker) will be decided early in the process and that candidate will surely be elected. Constituencies with wishy-washy outcomes are likely to be decided much later in the process and could get representatives of parties that don't ordinarily do well in FPTP.
+
+The Final Seats allocation in 2015 (Compare the CPR allocation vs the FPTP imbalance): 
 
     Party                                       Votes    %Share           CPR Seats          FPTP Seats
     Conservative                             11299609 ( 36.81%)        221 ( 34.00%)      330 ( 50.77%)
