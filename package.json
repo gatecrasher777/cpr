@@ -1,0 +1,31 @@
+{
+  "name": "cpr",
+  "version": "1.0.0",
+  "description": "Constituent Proportional Representation",
+  "main": "index.js",
+  "repository": {
+		"type": "git",
+		"url": "git+https://github.com/gatecrasher777/cpr.git"
+	},
+  "dependencies": {
+    "better-sqlite3": "^7.4.4",
+    "csv-parser": "^3.0.0"
+  },
+	"keywords": [
+		"PR",
+		"proportional",
+		"representation",
+		"electoral",
+		"election",
+		"voting",
+		"system",
+    "model",
+		"simulation"
+	],
+	"author": "gatecrasher777",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/gatecrasher777/cpr/issues"
+	},
+	"homepage": "https://github.com/gatecrasher777/cpr#readme"
+}
