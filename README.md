@@ -167,9 +167,9 @@ The Final Seats allocation in 2015 (Compare the CPR allocation vs the FPTP imbal
 
 Step by Step CPR output is provided for
 
-* [2019 UK General Election](https://github.com/gatecrasher777/cpr/blob/main/2019UK.csv)
-* [2017 UK General Election](https://github.com/gatecrasher777/cpr/blob/main/2017UK.csv)
-* [2015 UK General Election](https://github.com/gatecrasher777/cpr/blob/main/2015UK.csv)
+* [2019 UK General Election](https://github.com/gatecrasher777/cpr/blob/main/2019UK.txt)
+* [2017 UK General Election](https://github.com/gatecrasher777/cpr/blob/main/2017UK.txt)
+* [2015 UK General Election](https://github.com/gatecrasher777/cpr/blob/main/2015UK.txt)
 
 ## Install & Run
 
