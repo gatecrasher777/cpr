@@ -1,4 +1,4 @@
-# CPR (Work in Progress)
+# CPR
 
 ## Introduction
 
